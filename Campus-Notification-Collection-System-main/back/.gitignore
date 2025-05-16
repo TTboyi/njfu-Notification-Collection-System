@@ -1,0 +1,22 @@
+# Python dependencies
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# IDE settings
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db

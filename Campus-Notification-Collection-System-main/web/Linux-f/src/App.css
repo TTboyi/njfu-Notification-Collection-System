@@ -1,0 +1,74 @@
+.layout {
+  min-height: 100vh;
+}
+
+.site-content {
+  padding: 24px;
+  background: #fff;
+  min-height: calc(100vh - 64px);
+}
+
+.ant-layout-header {
+  background: #fff;
+  padding: 0 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.notice-card {
+  margin-bottom: 16px;
+}
+
+.notice-card .ant-card-meta-title {
+  margin-bottom: 8px;
+}
+
+.notice-card .ant-card-meta-description {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.search-bar {
+  margin-bottom: 24px;
+}
+
+.filter-section {
+  margin-bottom: 16px;
+}
+
+.calendar-view {
+  background: #fff;
+  padding: 24px;
+  border-radius: 2px;
+}
+
+.calendar-view .events {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.calendar-view .events .ant-badge-status {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  text-overflow: ellipsis;
+  font-size: 12px;
+}
+
+.calendar-view .ant-picker-calendar-date-content {
+  height: 80px;
+  overflow-y: auto;
+}
+
+.calendar-view .ant-list-item {
+  padding: 12px 0;
+}
+
+.calendar-view .ant-list-item-meta-title {
+  margin-bottom: 4px;
+  font-size: 16px;
+}
+
+.calendar-view .ant-list-item-meta-description {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+} 
