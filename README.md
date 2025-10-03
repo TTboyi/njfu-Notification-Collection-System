@@ -10,7 +10,15 @@
 <img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/8f378d0a-0bc4-46d1-a942-b557d9777c20" />
 <img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/48f643c4-efa2-45ad-b465-9f9a8e433f87" />
 
-
+## 前端项目结构
+```
+src/
+  ├── components/     # 公共组件
+  ├── pages/         # 页面组件
+  ├── types/         # TypeScript类型定义
+  ├── App.tsx        # 应用入口
+  └── index.tsx      # 渲染入口
+```
 
 ## 后端项目结构
 
