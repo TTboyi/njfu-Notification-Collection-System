@@ -1,4 +1,5 @@
-# 校园信息收集系统（njfu） linux系统与shell编程课设
+# 校园信息收集系统（njfu） 
+# linux系统与shell编程课设
 
 ## 项目结构
 
