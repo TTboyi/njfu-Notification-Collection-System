@@ -1,5 +1,5 @@
 # 校园信息收集系统（njfu） 
-# linux系统与shell编程课设
+## linux系统与shell编程课设
 （停止更新）项目地址:http://www.zhizhuxia.dpdns.org/   
        服务器提供商:racknerd 建议代理访问
 ## 项⽬描述：
