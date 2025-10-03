@@ -1,5 +1,6 @@
 # 校园信息收集系统（njfu） 
 # linux系统与shell编程课设
+<img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/585ed319-139b-4491-a84b-233b4fb830ad" />
 
 ## 后端项目结构
 
